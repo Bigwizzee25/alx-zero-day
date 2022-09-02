@@ -1,2 +1,2 @@
 My first readme
-becoming a good programmer
+updated becoming a good programmer
